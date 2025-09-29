@@ -1,5 +1,5 @@
 # gh-demo
-first git repo
+first git repository
 <br>
 author-sanika
 
